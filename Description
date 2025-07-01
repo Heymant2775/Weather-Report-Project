@@ -1,0 +1,5 @@
+Personal Project | HTML, CSS, JavaScript
+
+Developed a responsive web application that fetches live weather data using a public Weather API.
+
+Implemented features like city-based search, temperature display, humidity, wind speed, and weather icons, using vanilla JavaScript and Fetch API
